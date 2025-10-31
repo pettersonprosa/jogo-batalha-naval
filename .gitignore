@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Arquivos de IDE/Editor
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# arquivo gerado
+nivel-novato
